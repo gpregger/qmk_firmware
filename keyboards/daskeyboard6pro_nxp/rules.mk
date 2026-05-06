@@ -1,0 +1,10 @@
+MCU_FAMILY = MIMXRT1062
+MCU_SERIES = MIMXRT1062
+MCU_LDSCRIPT = MIMXRT1062
+MCU_STARTUP = MIMXRT1062
+ARMV = 7
+//SRC += backlight_custom.c
+SRC += led_matrix_custom.c
+
+# Teensy 4.1 / ChibiOS: do NOT enter low‑power WFI idle
+OPT_DEFS += -DCORTEX_ENABLE_WFI_IDLE=FALSE

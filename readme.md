@@ -34,3 +34,13 @@ QMK is developed and maintained by Jack Humbert of OLKB with contributions from 
 ## Official Website
 
 [qmk.fm](https://qmk.fm) is the official website of QMK, where you can find links to this page, the documentation, and the keyboards supported by QMK.
+
+
+# Fork Note
+
+Custom handwired modded DasKeyboard 6 Pro for Teensy 3.5 (daskeyboard6pro_avr, abandoned) and Teensy 4.1 (daskeyboard6pro_nxp) with custom 1x6 hardware PWM LED matrix backlight driver.
+
+![image](20260505_180055.JPG)
+![image](20260505_180105.JPG)
+
+[DasKeyboard6 Reverse engineering Notes](DasKeyboard6_RE-Notes.pdf)
