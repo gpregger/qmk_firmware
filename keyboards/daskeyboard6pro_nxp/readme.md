@@ -2,6 +2,8 @@
 
 Custom handwired modded DasKeyboard 6 Pro for Teensy 3.5 (daskeyboard6pro_avr, abandoned) and Teensy 4.1 (daskeyboard6pro_nxp) with custom 1x6 hardware PWM LED matrix backlight driver.
 
+I also replaced the built-in USB hub with my own (but gave up on USB 3 connectivity because it was too much of PITA) and did some questionable plastic surgery on the keyboard PCB and case...
+
 ![image](20260505_180055.JPG)
 ![image](20260505_180105.JPG)
 
